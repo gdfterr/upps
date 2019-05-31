@@ -1,0 +1,20 @@
+{
+    "name": "rupauls-drag-race-season-11-episode-14-streaming/logotv-channel",
+    "description": "WATCH ONLINE RuPaul's Drag Race Season 11 Episode 14 Full Free S11E14 WATCH FULL EPISODES HERE (CLICK LINK BELOW FO WATCHING))",
+	"keywords": ["RuPauls Drag Race Season 11 Episode 14 Watch Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/UDc0ad2Yw1",
+            "homepage": "https://t.co/UDc0ad2Yw1",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
